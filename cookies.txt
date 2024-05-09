@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+infograph.venngage.com	TRUE	/	FALSE	1999999999	AWSALB	fNDKAFFKyDUXz91ogUEQBGsApjiI6g3cxaTnJ0NgbdRiHPBHUNA03WePtGEAP7ix/c5fSYVvmVLcXVE6J7ZqyYk+afYYwfHztwLG7eNwzTZhMG5wTPB+pAvpZZR1
+infograph.venngage.com	TRUE	/	FALSE	1999999999	AWSALBCORS	fNDKAFFKyDUXz91ogUEQBGsApjiI6g3cxaTnJ0NgbdRiHPBHUNA03WePtGEAP7ix/c5fSYVvmVLcXVE6J7ZqyYk+afYYwfHztwLG7eNwzTZhMG5wTPB+pAvpZZR1
+infograph.venngage.com	TRUE	/	FALSE	1999999999	SameSite	None
+
